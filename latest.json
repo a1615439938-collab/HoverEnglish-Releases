@@ -1,0 +1,6 @@
+{
+  "Version": "1.0.0-rc7",
+  "DownloadUrl": "https://github.com/a1615439938-collab/HoverEnglish-Releases/releases/download/v1.0.0-rc7/HoverEnglish-1.0-RC7-win-x64.zip",
+  "Sha256": "1104fa3e5f2b60c737e7600684430072d1ef55f5bbd2300a8a4a60b64ffd4584",
+  "Notes": "RC7: redesigned settings and hover card, Baidu large-model contextual translation, selectable translation engines, local dictionary fallback, and in-app updater."
+}
